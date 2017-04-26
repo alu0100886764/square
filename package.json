@@ -1,0 +1,19 @@
+{
+  "name": "ull-shape-square",
+  "version": "1.0.0",
+  "description": "",
+  "main": "square.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100886764/square.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100886764/square/issues"
+  },
+  "homepage": "https://github.com/alu0100886764/square#readme"
+}
